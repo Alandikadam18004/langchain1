@@ -1,0 +1,4 @@
+cohere
+streamlit
+langchain
+wikipedia-api
